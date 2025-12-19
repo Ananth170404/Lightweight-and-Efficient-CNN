@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python
+torch
+torchvision
+tqdm
+scikit-learn
+onnx
+onnxruntime
