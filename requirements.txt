@@ -11,3 +11,6 @@ tqdm
 scikit-learn
 onnx
 onnxruntime
+albumentations
+matplotlib
+kagglehub
