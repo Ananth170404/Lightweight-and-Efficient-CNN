@@ -6,6 +6,7 @@ Pillow
 opencv-python
 torch
 torchvision
+timm
 tqdm
 scikit-learn
 onnx
