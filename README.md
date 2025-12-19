@@ -45,7 +45,7 @@ Our pipeline ensures maximum efficiency without sacrificing predictive power:
 | Metric | FP32 Baseline | INT8 Quantized | Improvement |
 | :--- | :--- | :--- | :--- |
 | **Model Size** | 0.45 MB | **0.31 MB** | **~31% Reduction** |
-| **Accuracy** | (Base) | **98.07%** | High retention |
+| **Accuracy** | 99.66% | **98.07%** | **High retention** |
 | **Inference Latency** | 5.66 ms | **3.95 ms** | **~1.4x Faster** |
 
 *(Hardware: Kaggle Notebook CPU - Intel Xeon @ 2.20GHz)*
